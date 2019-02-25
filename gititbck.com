@@ -1,1 +1,2 @@
-mutation
+Mutation {
+    mutationName(input: {MutationNameInput!}) { MutaticonNamePayload }
